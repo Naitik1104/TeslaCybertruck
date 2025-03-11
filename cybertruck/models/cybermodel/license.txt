@@ -1,0 +1,11 @@
+Model Information:
+* title:	CYBERTRUCK 3DS
+* source:	https://sketchfab.com/3d-models/cybertruck-3ds-7332522e27d34a2c8c2120e2555fbba4
+* author:	Valerio López (https://sketchfab.com/valeriolopez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CYBERTRUCK 3DS" (https://sketchfab.com/3d-models/cybertruck-3ds-7332522e27d34a2c8c2120e2555fbba4) by Valerio López (https://sketchfab.com/valeriolopez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
